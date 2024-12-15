@@ -4,3 +4,9 @@
 ### MiniZinc files
 *.fzn
 *.ozn
+
+# Picat binary
+Picat
+
+# Ignore output
+langford.dimacs
